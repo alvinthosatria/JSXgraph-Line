@@ -1,11 +1,7 @@
 # JSXgraph-Line
+This project is published and deployed as part of the CityU CS DIVE project <br>
 Mathematical Visualization Demo: <br>
 
-<!DOCTYPE html>
-<html>
-<body>
-  
-<iframe src="https://drive.google.com/file/d/1ptljRTXjoesEK1u1EyGwDZPANomEWn_P/preview" width="640" height="480" allow="autoplay"></iframe>
 
-</body>
-</html>
+https://github.com/alvinthosatria/JSXgraph-Line/assets/89440444/2d937f43-ed42-4d91-9bd5-925cf9bf3540
+
